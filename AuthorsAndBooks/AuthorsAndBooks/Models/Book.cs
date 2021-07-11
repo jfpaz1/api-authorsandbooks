@@ -18,7 +18,7 @@ namespace AuthorsAndBooks.Models
         /// <summary>
         /// Descripcion
         /// </summary>
-        public string Descripcion { get; set; }
+        public string Description { get; set; }
         /// <summary>
         /// PageCount
         /// </summary>
